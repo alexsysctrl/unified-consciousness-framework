@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+*.pyo
+.env
+.venv
+ucf_results.json
